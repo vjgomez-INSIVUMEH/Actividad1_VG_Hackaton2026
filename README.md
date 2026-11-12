@@ -1,1 +1,1 @@
-# Actividad1_VG_Hackaton2026
+Proyecto_Hackaton2026_VictorGomez
